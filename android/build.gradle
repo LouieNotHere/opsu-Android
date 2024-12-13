@@ -19,7 +19,7 @@ android {
     }
     defaultConfig {
         versionCode 48
-        minSdkVersion 18
+        minSdkVersion 30
         multiDexEnabled true
     }
 
